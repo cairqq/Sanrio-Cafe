@@ -1,0 +1,77 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+    font-family: 'Roboto Mono';
+    background-color: pink;
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+
+
+
+.story-opening {
+    display: block;
+}
+
+
+
+.button {
+    display: block;
+}
+
+.button2 {
+    display: none;
+}
+
+
+
+.option-one-screen {
+    display: none;
+}
+
+
+.option-two-screen {
+    display: none;
+}
+
+
+
+.option-one-end {
+    display: none;
+}
+
+
+
+.option-two-end {
+    display: none;
+}
